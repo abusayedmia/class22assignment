@@ -1,0 +1,95 @@
+.header-logo{
+    width: 85px;
+}
+.bg-colore{
+    background: #f9f9ff;
+}
+.contante{
+    margin-top: 130px;
+}
+.contante h5{}
+.contante h2{
+    padding: 10px 0;
+}
+.contante p{
+    padding: 10px 0;
+}
+/* contente-right */
+.contente-right{
+    margin-top: 85px;
+}
+.contente-right h5{}
+.contente-right h2{}
+.contente-right p{}
+/* countable */
+.counter-section{
+    background: #8490ff;
+}
+.countable p{
+    color: #fff;
+    
+}
+/* start-app-section */
+.start-app-section {
+    background: #f9f9ff;
+}
+.bodi{
+    position: relative;
+}
+.bodi img{
+    width: 100px;
+    position: absolute;
+    top: 0;
+    left: 0;
+    margin-top: -50px;
+    margin-left: 12px;
+}
+.bodi h2{
+    height: 100px;
+    width: 100px;
+    background: #ddd;
+    text-align: center;
+    line-height: 98px;
+    border-radius: 50%;
+    margin: auto;
+}
+.card-body{
+    margin-left: 0 ;
+    padding-left: 0 ;
+}
+.card-box {
+    margin: 0 41px;
+    border: none;
+}
+.header-starter{}
+.header-starter h2{}
+.header-starter p{}
+/*  */
+.image-div img{
+    width: 96px;
+    position: relative;
+    top: 34px;
+    left: 13px;
+    border-radius: 2px;
+}
+.header-contente{}
+/* end-section */
+.end-section{
+    background: #f9f9ff;
+}
+.pee{
+    font-weight: 600;
+    font-size: 17px;
+    padding: 2px;
+}
+.batton{
+    background:#17a2b8;
+    color: #fff;
+}
+/* footer */
+.footere p{
+    color: #fff;
+    font-size: 1.3rem;
+    padding: 20px;
+    margin-top: 15px;
+}
